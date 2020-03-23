@@ -1,5 +1,5 @@
 # Dynamic ORMs
-
+hi 
 ## Objectives
 
 1. Explain why a dynamic ORM is useful to us as developers
